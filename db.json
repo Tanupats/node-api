@@ -1,0 +1,89 @@
+[
+    {
+        "id": 1,
+        "product_name": "MONITOR (จอมอนิเตอร์) AOC 27B2H/67 ",
+        "price": "4,600",
+        "discription":"Color gamut : 101% sRGB, 74% Adobe RGB, 89% NTSC"
+
+    },
+   
+    {
+        "id": 2,
+        "product_name": "NOTEBOOK (โน้ตบุ๊ค) ASUS VIVOBOOK 15",
+        "price": "24,990",
+        "discription":"Intel Core i5-1235U"
+
+    }
+    ,
+   
+    {
+        "id": 3,
+        "product_name": "NOTEBOOK 2 IN 1 (โน้ตบุ๊คแบบฝาพับ 360 องศา) HP ENVY X360 13-BF0128TU (NATURAL SILVER)",
+        "price": "35,990",
+        "discription":"Intel Core i5-1230U"
+
+    },
+    {
+        "id": 4,
+        "product_name": "DESKTOP PC (คอมพิวเตอร์ตั้งโต๊ะ) ASUS S5",
+        "price": "14,990",
+        "discription":"Intel Core I3-10105 4GB DDR4"
+        
+
+    },
+    {
+        "id": 5,
+        "product_name": "NOTEBOOK (โน้ตบุ๊ค) LENOVO IDEAPAD 3",
+        "price": "13,990",
+        "discription":"Intel Core i3-1115G4 "
+        
+
+    }
+    ,
+    {
+        "id": 6,
+        "product_name": "8GB (8GBx1) DDR4 2666MHz KINGSTON",
+        "price": "940",
+        "discription":" 8GB (8GBx1) DDR4 "
+        
+
+    }
+    ,
+    {
+        "id": 7,
+        "product_name": "BLUETOOTH HEADSET (หูฟังบลูทูธ) B&W",
+        "price": "29,007",
+        "discription":"Hybrid Noise Cancellation"
+        
+
+    },
+    {
+        "id": 8,
+        "product_name": "POWER SUPPLY (อุปกรณ์จ่ายไฟ) AEROCOOL AE650 - 650W 80 PLUS",
+        "price": "1,790",
+        "discription":"650 Watt"
+        
+
+    }
+    ,
+    {
+        "id": 9,
+        "product_name": "SPEAKER (ลำโพง) ELAC DEBUT CONNEX DCB41 (BLUE)",
+        "price": "19,500",
+        "discription":"Speaker Type : Bass Reflex / Powered"
+        
+
+    },
+    {
+        "id": 10,
+        "product_name": "COMPUTER SET JIB MARU-2303018",
+        "price": "91,900",
+        "discription":"#COMSET2303018"
+        
+
+    }
+
+
+
+   
+]
