@@ -1,7 +1,7 @@
 const express = require('express');
 const books = require('./db')
 const app = express()
-
+const PORT = process.env.PORT || 3050
 const bodyParser = require('body-parser');
 const cors = require('cors');
 
@@ -24,7 +24,7 @@ app.get('/member/:id', (req, res) => {
 
 })
 
-app.listen(3050, () => {
-    console.log('Start server at port 3050.')
+app.listen(PORT, () => {
+    console.log(`Start server at port ${PORT}`)
 })
 
