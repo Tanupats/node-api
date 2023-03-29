@@ -14,11 +14,11 @@ app.get('/', (req, res) => {
     res.send('hello world')
 });
 
-app.get('/members', (req, res) => {
+app.get('/products', (req, res) => {
     res.json({ books });
 })
 
-app.get('/member/:id', (req, res) => {
+app.get('/product/:id', (req, res) => {
 
     res.json(books.find(book => book.id === Number(req.params.id)))
 
